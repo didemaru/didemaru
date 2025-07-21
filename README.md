@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @didemaru
+- 👋 Hi, I’m Didem Aru Bakır
 - 👀 I’m interested in software and BI
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning spring boot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
